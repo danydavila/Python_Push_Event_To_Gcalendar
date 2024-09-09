@@ -1,5 +1,6 @@
 ---
-
+# The script reads from the events.yaml file located in the project root directory.
+# cp events_example.yaml events.yaml
 calendar_name: "Work" # Custom calendar name
 timezone: "America/New_York" # Custom timezone for events
 events:
