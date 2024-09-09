@@ -11,6 +11,13 @@ venv.bak/
 .idea
 .vscode
 
+# User space - ignore custom user files
+archive
+events.yaml
+credentials.json
+token.json
+user
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
