@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# version 1.0.0
+# https://github.com/danydavila/Python_Push_Event_To_gCalendar
+
 import yaml
 import os
 import datetime
