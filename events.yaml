@@ -1,0 +1,27 @@
+---
+
+calendar_name: "Work" # Custom calendar name
+timezone: "America/New_York" # Custom timezone for events
+events:
+  - title: "Project Meeting"
+    description: |
+      Discuss project milestones and next steps.<br>
+      See the full document <a href="https://example.com">here</a>.<br>
+      Ensure that all tasks are reviewed before the meeting.
+    event start time: "2024/08/09 4:40 PM"
+    event end time: "2024/08/09 5:40 PM"
+    attendees:
+      - "email1@example.com"
+      - "email2@example.com"
+  - title: "Team Standup"
+    description: |
+      Daily team sync-up.<br>
+      Remember to fill out <a href="https://example.com/form">this form</a> before the standup.<br>
+      Thanks!
+    event start time: "2024/08/10 9:00 AM"
+    event end time: "2024/08/10 9:30 AM"
+  - title: "One-on-One Meeting"
+    description: |
+      A quick catch-up with your manager.
+    event start time: "2024/08/11 11:00 AM"
+    event end time: "2024/08/11 11:30 AM"
